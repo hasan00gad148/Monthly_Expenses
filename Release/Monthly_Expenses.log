@@ -1,0 +1,7 @@
+﻿  DailyExpenses.cpp
+D:\College\DS Project\Monthly_Expenses\DailyExpenses.cpp(57,31): warning C4018: '<': signed/unsigned mismatch
+  MainSource.cpp
+D:\College\DS Project\Monthly_Expenses\MainSource.cpp(36,4): error C3861: 'displayDailyExpenses': identifier not found
+D:\College\DS Project\Monthly_Expenses\MainSource.cpp(39,4): error C3861: 'addDailyExpenses': identifier not found
+  MonthlyExpenses.cpp
+  User__.cpp

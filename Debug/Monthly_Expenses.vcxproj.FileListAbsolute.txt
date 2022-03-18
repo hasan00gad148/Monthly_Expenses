@@ -1,0 +1,3 @@
+D:\College\DS Project\Monthly_Expenses\Debug\Monthly_Expenses.exe
+D:\College\DS Project\Monthly_Expenses\Debug\Monthly_Expenses.pdb
+C:\Users\hassan\Desktop\Monthly_Expenses\Debug\Monthly_Expenses.exe
